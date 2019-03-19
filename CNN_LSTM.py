@@ -10,6 +10,7 @@ from sklearn.model_selection import train_test_split
 from keras.models import Sequential
 from keras.layers import Activation, Dropout, UnSampling2D
 from keras.layers import Conv2DTranspose, Conv2D, MaxPooling2D
+from keras.layers import LSTM
 from keras.layers.normalization import BatchNormalization
 from keras.preprocessing.image import ImageDataGenerator
 from keras import regularizers
