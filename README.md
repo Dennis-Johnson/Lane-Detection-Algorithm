@@ -1,6 +1,4 @@
-# CurveFit
-
-LANE DETECTION ALGORITHM
+# LANE DETECTION ALGORITHM
 
 Aim: To build an algorithm which can detect lanes in a road and calculate and display features like offset from the center of the lane, radius of curvature of the road etc.
 
